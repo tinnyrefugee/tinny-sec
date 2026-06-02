@@ -11,7 +11,7 @@ const blogPosts = [
     title: "Setting Up My First Penetration Testing Lab",
     excerpt:
       "Building a safe environment to practice ethical hacking techniques using VirtualBox and Kali Linux. This comprehensive guide covers everything from initial setup to configuring vulnerable machines.",
-    date: "2024-01-15",
+    date: "2025-01-15",
     readTime: "5 min read",
     tags: ["Lab Setup", "Kali Linux", "Beginner", "VirtualBox"],
   },
@@ -20,7 +20,7 @@ const blogPosts = [
     title: "Understanding SQL Injection: Theory and Practice",
     excerpt:
       "Deep dive into SQL injection vulnerabilities, how they work, and how to prevent them in web applications. Includes practical examples and mitigation strategies.",
-    date: "2024-01-12",
+    date: "2025-01-12",
     readTime: "8 min read",
     tags: ["Web Security", "SQL Injection", "OWASP", "Vulnerabilities"],
   },
@@ -29,7 +29,7 @@ const blogPosts = [
     title: "My Journey into Cybersecurity: Week 1 Reflections",
     excerpt:
       "First week of dedicated cybersecurity learning - resources, challenges, and initial impressions. What I learned and what surprised me the most.",
-    date: "2024-01-08",
+    date: "2025-01-08",
     readTime: "4 min read",
     tags: ["Journey", "Learning", "Reflection", "Beginner"],
   },
@@ -38,7 +38,7 @@ const blogPosts = [
     title: "Network Scanning with Nmap: A Beginner's Guide",
     excerpt:
       "Learning the fundamentals of network reconnaissance using Nmap. From basic scans to advanced techniques for ethical penetration testing.",
-    date: "2024-01-05",
+    date: "2025-01-05",
     readTime: "6 min read",
     tags: ["Network Security", "Nmap", "Reconnaissance", "Tools"],
   },
@@ -47,7 +47,7 @@ const blogPosts = [
     title: "Setting Up Burp Suite for Web Application Testing",
     excerpt:
       "Complete walkthrough of configuring Burp Suite Community Edition for web application security testing. Proxy setup, certificate installation, and basic usage.",
-    date: "2024-01-02",
+    date: "2025-01-02",
     readTime: "7 min read",
     tags: ["Web Security", "Burp Suite", "Tools", "Setup"],
   },
